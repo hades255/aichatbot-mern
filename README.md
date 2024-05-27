@@ -31,13 +31,13 @@ Before running the application, ensure you have the following installed:
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/yashkathe/AI-Chat-Bot-MERN.git
+    git clone https://github.com/hades255/aichatbot-mern.git
     ```
 
 2.  Navigate to the project directory:
 
     ```bash
-    cd AI-Chat-Bot-MERN
+    cd aichatbot-mern
     ```
 
 3.  Install dependencies for both the client and server:
@@ -99,3 +99,14 @@ Before running the application, ensure you have the following installed:
 ## Website Demo
 
 ![Website Demo](readme_content/demo.gif)
+
+
+__Developed by__
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗███████╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████║███████║██║  ██║███████╗███████╗
+██╔══██║██╔══██║██║  ██║██╔════╝╚════██║
+██║  ██║██║  ██║██████╔╝███████╗███████║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝ 
+```
